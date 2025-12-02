@@ -1,28 +1,46 @@
 import React from "react";
 import profile from "../assets/PoojaProfile.jpg";
-import resume from "../assets/Pooja_Lohani_Resume.pdf"; // add your resume file in assets folder
+import resume from "../assets/Pooja_Lohani_Resume.pdf";
 
 const Hero = () => {
   return (
     <section id="hero" className="hero">
-      <div className="hero-content">
-        <img src={profile} alt="Pooja Lohani" className="profile-pic" />
-        <h1>Hi, I’m <span>Pooja Lohani</span></h1>
-        <p>
-          A passionate <strong>Full Stack Developer</strong> and{" "}
-          <strong>QA Engineer</strong> crafting clean, responsive, and
-          user-focused web applications.
+      <div className="hero-left">
+        <div className="profile-ring">
+          <img src={profile} alt="Pooja Lohani" className="hero-img" />
+        </div>
+      </div>
+
+      <div className="hero-right">
+        <h1 className="hero-title">Pooja Lohani</h1>
+
+        <p className="hero-role">Software Developer • SDET • Cloud Enthusiast</p>
+
+        <p className="hero-desc">
+          Building reliable, scalable, and user-focused digital experiences.
+          Blending development, automation, and cloud engineering to deliver
+          quality software solutions.
         </p>
 
         <div className="hero-buttons">
-          <a href={resume} download className="btn resume-btn">📄 Download Resume</a>
-          <a href="#projects" className="btn outline">View Projects</a>
+          <a href={resume} download className="btn">
+            📄 Download Resume
+          </a>
+          <a href="#projects" className="btn outline">
+            🚀 View My Work
+          </a>
         </div>
 
-        <div className="social-icons">
-          <a href="https://www.linkedin.com/in/pooja-lohani-22826b184/" target="_blank">🔗 LinkedIn</a>
-          <a href="https://github.com/pooja02082020/" target="_blank">💻 GitHub</a>
-          <a href="mailto:lohanipooja77@gmail.com">📧 Email</a>
+        <div className="hero-socials">
+          <a href="https://linkedin.com/in/lohanipooja" target="_blank" rel="noreferrer">
+            🔗 LinkedIn
+          </a>
+          <a href="https://github.com/pooja02082020" target="_blank" rel="noreferrer">
+            💻 GitHub
+          </a>
+          <a href="mailto:poojalohani9625@gmail.com">
+            📧 Email
+          </a>
         </div>
       </div>
     </section>

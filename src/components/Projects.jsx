@@ -3,14 +3,28 @@ import React from "react";
 const Projects = () => {
   const projects = [
     {
-      title: "SneakPeak – Lambton College",
-      desc: "A business management app built using HTML, CSS, JS, and MongoDB.",
-      tech: "MongoDB • JavaScript • GitHub",
+      title: "Personal Portfolio Website",
+      desc:
+        "Designed and developed a responsive portfolio with performance optimization, SEO enhancements, and GitHub Pages deployment.",
+      tech: "HTML5 • CSS3 • JavaScript • GitHub Pages",
     },
     {
-      title: "ICAPMOT Platform – Seed NanoTech",
-      desc: "Enhanced front and back-end functionality using HTML, CSS, JS, and Selenium.",
-      tech: "Selenium • Azure DevOps • JS",
+      title: "ICAPMOT Research Platform – Seed NanoTech",
+      desc:
+        "Improved page performance, added interactive modules, optimized queries, and collaborated with researchers for UI upgrades.",
+      tech: "JavaScript • MySQL • Git • DOM Optimization",
+    },
+    {
+      title: "Batch Report Automation – Cotiviti",
+      desc:
+        "Built Java Selenium automation, REST API validation, POM framework, Jenkins CI pipelines, and saved 60+ manual hours per cycle.",
+      tech: "Java • Selenium • TestNG • REST Assured • SQL • Jenkins • Maven",
+    },
+    {
+      title: "SneakPeak – Lambton College",
+      desc:
+        "A minimal business management app built to manage users, tasks, and roles with basic CRUD operations.",
+      tech: "MongoDB • JavaScript • HTML/CSS • GitHub",
     },
   ];
 
@@ -22,7 +36,7 @@ const Projects = () => {
           <div className="project-card" key={i}>
             <h3>{proj.title}</h3>
             <p>{proj.desc}</p>
-            <span>{proj.tech}</span>
+            <span className="tech">{proj.tech}</span>
           </div>
         ))}
       </div>
