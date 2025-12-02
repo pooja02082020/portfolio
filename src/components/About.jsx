@@ -1,11 +1,34 @@
 import React from "react";
 
 const About = () => (
-  <section id="about" className="section">
+  <section id="about" className="section about-section">
     <h2>About Me</h2>
-    <p>
-      Results-driven Software Developer & SDET with 6+ years of strong proficiency in Java, React, Automation Testing, and Cloud technologies. Experienced in building scalable full-stack applications, designing automation frameworks, and improving software quality through rigorous testing and CI/CD practices. Adept at solving complex problems, optimizing performance, and collaborating within Agile teams. Seeking a role where I can contribute to high-impact products by applying my expertise in full-stack development, test automation, and cloud-based systems.
-    </p>
+
+    <div className="about-card">
+      <p>
+        I am a <strong>Software Developer & SDET</strong> with 6+ years of
+        hands-on experience in Full Stack development, automation testing, and
+        cloud technologies.
+      </p>
+
+      <p>
+        I specialize in building scalable applications, designing automation
+        frameworks, and improving product quality through CI/CD practices and
+        modern engineering principles.
+      </p>
+
+      <p>
+        With a passion for clean code, problem-solving, and user-focused
+        solutions, I thrive in Agile teams where collaboration and innovation
+        matter.
+      </p>
+
+      <p>
+        I am currently seeking opportunities where I can contribute to
+        <strong> impactful engineering teams</strong> and create solutions that
+        make a real difference.
+      </p>
+    </div>
   </section>
 );
 
