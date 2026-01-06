@@ -6,7 +6,7 @@ const About = () => (
 
     <div className="about-card">
       <p>
-        I am a <strong>Software Developer & SDET</strong> with 6+ years of
+        I am a <strong>Software Developer & SDET</strong> with 5+ years of
         hands-on experience in Full Stack development, automation testing, and
         cloud technologies.
       </p>
