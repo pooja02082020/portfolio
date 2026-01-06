@@ -26,7 +26,7 @@ const Skills = () => (
         <p>
           Selenium WebDriver, TestNG, JUnit, REST Assured, Cypress (UI/API), Playwright, 
           Postman, BDD with Cucumber, Data-driven & Hybrid Frameworks, API Testing, 
-          React Testing Library, Jest
+          React Testing Library
         </p>
       </div>
 

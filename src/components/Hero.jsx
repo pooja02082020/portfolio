@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="hero-right">
         <h1 className="hero-title">Pooja Lohani</h1>
 
-        <p className="hero-role">Software Developer • SDET • Cloud Enthusiast</p>
+        <p className="hero-role">Software Developer • SDET • Full Stack Developer</p>
 
         <p className="hero-desc">
           Building reliable, scalable, and user-focused digital experiences.
