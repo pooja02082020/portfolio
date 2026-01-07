@@ -111,18 +111,23 @@ body {
 /* ======= SPLIT HERO LAYOUT ======= */
 .hero {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  padding: 50px 10%;
-  gap: 30px;
+  justify-content: center;
+  padding: 100px 8%;
+  gap: 80px;
+  background: linear-gradient(135deg, #ede9fe, #f5f3ff);
 }
 
-/* left side */
 .hero-left {
   flex: 1;
   display: flex;
   justify-content: center;
 }
+
+.hero-right {
+  flex: 1.2;
+}
+
 
 .profile-ring {
   padding: 10px;
