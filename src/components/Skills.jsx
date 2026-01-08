@@ -24,7 +24,7 @@ const Skills = () => (
       <div>
         <h3>Automation & Testing</h3>
         <p>
-          Selenium WebDriver, TestNG, JUnit, REST Assured, Cypress (UI/API), Playwright, 
+          Selenium WebDriver, TestNG, JUnit, REST Assured, Cypress, Playwright, 
           Postman, BDD with Cucumber, Data-driven & Hybrid Frameworks, API Testing, 
           React Testing Library
         </p>
