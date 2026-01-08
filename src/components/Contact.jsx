@@ -39,7 +39,7 @@ const Contact = () => {
           </div>
 
           <button type="submit" className="contact-btn">
-            Send Message
+           Submit
           </button>
 
           {sent && (
