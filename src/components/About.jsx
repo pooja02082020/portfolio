@@ -6,27 +6,33 @@ const About = () => (
 
     <div className="about-card">
       <p>
-        I am a <strong>Software Developer & SDET</strong> with 5+ years of
-        hands-on experience in Full Stack development, automation testing, and
-        cloud technologies.
+        I’m <strong>Pooja Lohani</strong>, a <strong>Software Developer & SDET</strong> with
+        5+ years of experience building scalable full-stack applications and
+        high-quality automation frameworks.
       </p>
 
       <p>
-        I specialize in building scalable applications, designing automation
-        frameworks, and improving product quality through CI/CD practices and
-        modern engineering principles.
+        I work across <strong>Java, React, Node.js, and Cloud platforms</strong>,
+        creating fast, reliable, and maintainable systems that deliver real
+        business value.
       </p>
 
       <p>
-        With a passion for clean code, problem-solving, and user-focused
-        solutions, I thrive in Agile teams where collaboration and innovation
-        matter.
+        My background in <strong>test automation and CI/CD</strong> allows me to
+        build software that is not only feature-rich but also stable, secure,
+        and production-ready.
       </p>
 
       <p>
-        I am currently seeking opportunities where I can contribute to
-        <strong> impactful engineering teams</strong> and create solutions that
-        make a real difference.
+        Currently, I’m working as a <strong>Full Stack Developer at Comcast</strong>,
+        where I build modern React + TypeScript applications, REST APIs, and
+        automated test suites within Agile teams.
+      </p>
+
+      <p>
+        I’m passionate about clean code, performance optimization, and building
+        products that users love — and I’m always excited to contribute to
+        <strong> high-impact engineering teams</strong>.
       </p>
     </div>
   </section>

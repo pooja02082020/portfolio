@@ -14,37 +14,37 @@ const Contact = () => {
     <section id="contact" className="section contact-section">
       <h2>Get In Touch</h2>
       <p className="contact-subtext">
-        Lets connect !!
+        Have an opportunity, project idea, or just want to connect? Let’s talk.
       </p>
 
       <div className="contact-card">
         <form onSubmit={handleSubmit} className="contact-form">
           <div className="form-group">
             <label>Your Name</label>
-            <input type="text" placeholder="" required />
+            <input type="text" placeholder="Enter your full name" required />
           </div>
 
           <div className="form-group">
             <label>Email Address</label>
-            <input type="email" placeholder="" required />
+            <input type="email" placeholder="Enter your email" required />
           </div>
 
           <div className="form-group">
             <label>Message</label>
             <textarea
-              placeholder="Tell me about your project or opportunity..."
+              placeholder="Tell me about your project, role, or how I can help…"
               rows="4"
               required
             ></textarea>
           </div>
 
           <button type="submit" className="contact-btn">
-           Submit
+            Send Message
           </button>
 
           {sent && (
             <p className="success-msg">
-              Thanks for reaching out! I’ll get back to you soon.
+              Thanks for reaching out! I’ll get back to you shortly.
             </p>
           )}
         </form>
