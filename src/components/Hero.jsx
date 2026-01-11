@@ -14,12 +14,16 @@ const Hero = () => {
       <div className="hero-right">
         <h1 className="hero-title">Pooja Lohani</h1>
 
-        <p className="hero-role">Software Developer • SDET • Full Stack Developer</p>
+        <p className="hero-role">
+          Full Stack Developer • SDET • Automation Engineer
+        </p>
 
         <p className="hero-desc">
-          Building reliable, scalable, and user-focused digital experiences.
-          Blending development, automation, and cloud engineering to deliver
-          quality software solutions.
+          Results-driven Software Developer & SDET with 5+ years of experience
+          building high-performance React applications, scalable APIs, and
+          robust automation frameworks. I specialize in delivering reliable,
+          production-ready systems through clean code, CI/CD, and cloud-first
+          engineering.
         </p>
 
         <div className="hero-buttons">
@@ -32,10 +36,18 @@ const Hero = () => {
         </div>
 
         <div className="hero-socials">
-          <a href="https://linkedin.com/in/lohanipooja" target="_blank" rel="noreferrer">
+          <a
+            href="https://linkedin.com/in/lohanipooja"
+            target="_blank"
+            rel="noreferrer"
+          >
             🔗 LinkedIn
           </a>
-          <a href="https://github.com/pooja02082020" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/pooja02082020"
+            target="_blank"
+            rel="noreferrer"
+          >
             💻 GitHub
           </a>
           <a href="mailto:poojalohani9625@gmail.com">
