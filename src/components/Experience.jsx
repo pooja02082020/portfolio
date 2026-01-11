@@ -10,11 +10,12 @@ const Experience = () => (
         <h3>Full Stack Developer – Comcast (Remote)</h3>
         <p>Mar 2025 – Present</p>
         <ul>
-          <li>Developed and optimized React components improving UI load time by 30%.</li>
-          <li>Built scalable UI architecture with TypeScript and Styled Components.</li>
-          <li>Designed and maintained REST APIs using Node.js and Express.</li>
-          <li>Implemented automated UI and integration tests using Jest and React Testing Library.</li>
-          <li>Strengthened CI/CD workflows with GitHub Actions and linting automation.</li>
+          <li>Built and optimized 8+ React components using code-splitting, lazy loading, and memoization, improving UI performance by 30%.</li>
+          <li>Designed scalable UI architecture with React, TypeScript, and Styled Components, reducing duplicate code by 40%.</li>
+          <li>Developed and maintained REST APIs using Node.js and Express, improving data retrieval efficiency by 25%.</li>
+          <li>Implemented unit, integration, and UI tests using Jest and React Testing Library to ensure high frontend quality.</li>
+          <li>Strengthened CI/CD pipelines with GitHub Actions, ESLint, and Prettier for reliable automated builds.</li>
+          <li>Resolved 15–20 production bugs per sprint through debugging, code reviews, and proactive issue tracking.</li>
         </ul>
       </div>
 
@@ -22,10 +23,12 @@ const Experience = () => (
         <h3>SDET (Software Development Engineer in Test) – Cotiviti</h3>
         <p>Aug 2021 – Mar 2023</p>
         <ul>
-          <li>Designed advanced UI and API automation frameworks raising coverage from 45%→85%.</li>
-          <li>Reduced regression cycle by 40% by improving test stability and synchronization.</li>
-          <li>Integrated automation suite into Jenkins pipelines, saving 50+ hours per release.</li>
-          <li>Led defect triage and collaborated directly with developers for fast resolution.</li>
+          <li>Designed and enhanced UI & API automation frameworks using Java, Selenium, TestNG, and REST Assured, increasing coverage from 45% to 85%.</li>
+          <li>Implemented data-driven and hybrid frameworks, boosting defect detection rate by 35%.</li>
+          <li>Reduced regression execution time by 40% by stabilizing tests and improving synchronization.</li>
+          <li>Integrated automation into Jenkins CI/CD pipelines, saving 50+ manual QA hours per release.</li>
+          <li>Validated REST APIs, backend logic, and healthcare calculations with high accuracy.</li>
+          <li>Mentored junior SDETs on framework design, debugging, and automation best practices.</li>
         </ul>
       </div>
 
@@ -33,9 +36,10 @@ const Experience = () => (
         <h3>Associate SDET – Cotiviti</h3>
         <p>Dec 2018 – Aug 2021</p>
         <ul>
-          <li>Developed automation scripts using Java, Selenium, and POM framework.</li>
-          <li>Performed SQL data verification and backend validation to ensure accuracy.</li>
-          <li>Improved locator strategies and resolved flaky tests to stabilize automation.</li>
+          <li>Developed automation scripts using Java, Selenium, TestNG, and Page Object Model (POM).</li>
+          <li>Executed end-to-end testing and logged detailed defects to ensure high product quality.</li>
+          <li>Performed SQL queries for backend data validation and integrity checks.</li>
+          <li>Maintained locator strategies and resolved flaky tests to stabilize early automation frameworks.</li>
         </ul>
       </div>
 
@@ -43,9 +47,9 @@ const Experience = () => (
         <h3>Software Engineering Co-op – Seed NanoTech International Inc.</h3>
         <p>Aug 2024 – Dec 2024</p>
         <ul>
-          <li>Enhanced ICAPMOT research platform UI and backend workflow.</li>
-          <li>Developed JS visualization modules and optimized DOM rendering performance.</li>
-          <li>Authored Selenium scripts and strengthened regression automation.</li>
+          <li>Enhanced ICAPMOT research website with interactive JavaScript modules and UI improvements.</li>
+          <li>Optimized MySQL queries and DOM rendering, improving data retrieval and page performance by up to 30%.</li>
+          <li>Collaborated with researchers to deploy workflow and visualization enhancements.</li>
         </ul>
       </div>
 
