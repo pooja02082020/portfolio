@@ -41,17 +41,17 @@ const Hero = () => {
             target="_blank"
             rel="noreferrer"
           >
-            🔗 LinkedIn
+            LinkedIn
           </a>
           <a
             href="https://github.com/pooja02082020"
             target="_blank"
             rel="noreferrer"
           >
-            💻 GitHub
+            GitHub
           </a>
           <a href="mailto:poojalohani9625@gmail.com">
-            📧 Email
+            Email
           </a>
         </div>
       </div>

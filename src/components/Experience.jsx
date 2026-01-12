@@ -36,7 +36,7 @@ const Experience = () => (
         <h3>Associate SDET – Cotiviti</h3>
         <p>Dec 2018 – Aug 2021</p>
         <ul>
-          <li>Developed automation scripts using Java, Selenium, TestNG, and Page Object Model (POM).</li>
+          <li>Developed automation scripts using Java, Selenium, TestNG, and Page Object Model.</li>
           <li>Executed end-to-end testing and logged detailed defects to ensure high product quality.</li>
           <li>Performed SQL queries for backend data validation and integrity checks.</li>
           <li>Maintained locator strategies and resolved flaky tests to stabilize early automation frameworks.</li>
