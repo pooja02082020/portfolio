@@ -26,7 +26,7 @@ const Contact = () => {
 
           <div className="form-group">
             <label>Email Address</label>
-            <input type="email" placeholder="Enter your email" required />
+            <input type="email" placeholder="Enter your email ADDRESS" required />
           </div>
 
           <div className="form-group">
