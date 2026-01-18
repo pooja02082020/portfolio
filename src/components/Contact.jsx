@@ -32,7 +32,7 @@ const Contact = () => {
           <div className="form-group">
             <label>Message</label>
             <textarea
-              placeholder="Tell me about your project, role, or how I can help…"
+              placeholder="Tell me about your project, role, or how I can help…."
               rows="4"
               required
             ></textarea>
