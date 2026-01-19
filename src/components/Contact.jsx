@@ -20,31 +20,45 @@ const Contact = () => {
       <div className="contact-card">
         <form onSubmit={handleSubmit} className="contact-form">
           <div className="form-group">
-            <label>Your Name</label>
-            <input type="text" placeholder="Enter your full name" required />
+            <label htmlFor="name">Your Name</label>
+            <input
+              id="name"
+              type="text"
+              placeholder="Enter your full name"
+              aria-label="Your name"
+              required
+            />
           </div>
 
           <div className="form-group">
-            <label>Email Address</label>
-            <input type="email" placeholder="Enter your email ADDRESS" required />
+            <label htmlFor="email">Email Address</label>
+            <input
+              id="email"
+              type="email"
+              placeholder="Enter your email address"
+              aria-label="Your email address"
+              required
+            />
           </div>
 
           <div className="form-group">
-            <label>Message</label>
+            <label htmlFor="message">Message</label>
             <textarea
-              placeholder="Tell me about your project, role, or how I can help…."
+              id="message"
+              placeholder="Tell me about your project, role, or how I can help…"
               rows="4"
+              aria-label="Your message"
               required
             ></textarea>
           </div>
 
-          <button type="submit" className="contact-btn">
-            Send Message
+          <button type="submit" className="contact-btn" disabled={sent}>
+            {sent ? "Message Sent ✓" : "Send Message"}
           </button>
 
           {sent && (
             <p className="success-msg">
-              Thanks for reaching out! I’ll get back to you shortly.
+              Thanks for reaching out! I’ll be in touch shortly.
             </p>
           )}
         </form>

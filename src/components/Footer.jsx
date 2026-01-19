@@ -1,8 +1,10 @@
 import React from "react";
 
 const Footer = () => (
-  <footer>
-    <p>© {new Date().getFullYear()} Pooja Lohani || Built using React</p>
+  <footer className="footer">
+    <p>
+      © {new Date().getFullYear()} Pooja Lohani · Built with React
+    </p>
   </footer>
 );
 
