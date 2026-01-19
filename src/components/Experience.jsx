@@ -7,7 +7,7 @@ const Experience = () => (
     <div className="timeline">
 
       <div className="timeline-item">
-        <h3>Full Stack Developer – Comcast (Remote)</h3>
+        <h3>Full Stack Developer – Comcast -(Remote)</h3>
         <p>Mar 2025 – Present</p>
         <ul>
           <li>Built and optimized 8+ React components using code-splitting, lazy loading, improving UI performance by 30%.</li>
