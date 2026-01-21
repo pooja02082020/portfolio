@@ -28,7 +28,7 @@ const Hero = () => {
 
         <div className="hero-buttons">
           <a href={resume} download className="btn">
-            📄 Download Resume
+            📄 Resume
           </a>
           <a href="#projects" className="btn outline">
             🚀 View My Work
