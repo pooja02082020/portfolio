@@ -19,7 +19,7 @@ const Hero = () => {
         </p>
 
         <p className="hero-desc">
-          Results-driven Software Developer & SDET with 5+ years of experience
+          Results-driven Software Developer & SDET with 5+ years of experience in
           building high-performance React applications, scalable APIs, and
           robust automation frameworks. I specialize in delivering reliable,
           production-ready systems through clean code,code refactoring, CI/CD pipelines, and cloud-first
