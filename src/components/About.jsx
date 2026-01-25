@@ -31,7 +31,7 @@ const About = () => (
 
       <p>
         I’m passionate about clean code, performance optimization, and building
-        products that user's love — and I’m always excited to contribute to
+        products that user's love and I’m always excited to contribute to
         <strong> high-impact engineering teams</strong>.
       </p>
     </div>
