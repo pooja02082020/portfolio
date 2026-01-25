@@ -25,7 +25,7 @@ const About = () => (
 
       <p>
         Currently, I’m working as a <strong>Full Stack Developer at Comcast</strong>,
-        where I build modern React + TypeScript applications, REST APIs, and
+        where I build modern React and TypeScript applications, REST APIs, and
         automated test suites within Agile teams.
       </p>
 
