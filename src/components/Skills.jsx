@@ -45,7 +45,7 @@ const Skills = () => (
       <div>
         <h3>Tools & Engineering Concepts</h3>
         <p>
-          OOP, Collections, Multithreading, JDBC, Agile/Scrum, Jira, Confluence,
+          OOP, Collections, Multithreading, JDBC, Agile, Jira, Confluence,
           VS Code, Eclipse, IntelliJ
         </p>
       </div>
