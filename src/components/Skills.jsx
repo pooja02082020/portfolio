@@ -54,7 +54,7 @@ const Skills = () => (
         <h3>Certifications</h3>
         <p>
           AWS Certified Cloud Practitioner (2025–2028) <br />
-          ISTQB Certified Tester – Foundation Level <br />
+          ISTQB Certified Tester Foundation Level <br />
           SAFe for Teams (2021–2022)
         </p>
       </div>
