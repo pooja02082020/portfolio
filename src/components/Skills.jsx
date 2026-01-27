@@ -38,7 +38,7 @@ const Skills = () => (
         <h3>DevOps & Cloud</h3>
         <p>
           Jenkins, Git, GitHub Actions, CI/CD, Docker, AWS (EC2, S3, Lambda,
-          CloudWatch), Maven , SPRING BOOT
+          CloudWatch), Maven 
         </p>
       </div>
 
