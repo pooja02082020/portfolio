@@ -48,7 +48,7 @@ const Experience = () => (
         <p>Aug 2024 – Dec 2024</p>
         <ul>
           <li>Enhanced ICAPMOT research website with interactive JavaScript modules and UI improvements.</li>
-          <li>Optimized MySQL queries and DOM rendering, improving data retrieval and page performance by up to 30%.</li>
+          <li>Optimized MySQL queries and DOM rendering, improving data retrieval and page performance by up to 30%</li>
           <li>Collaborated with researchers to deploy workflow and visualization enhancements.</li>
         </ul>
       </div>
