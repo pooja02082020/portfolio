@@ -27,6 +27,7 @@ const App = () => {
       <Experience />
       <Contact />
       <Footer />
+      <Hero/>
     </>
   );
 };
