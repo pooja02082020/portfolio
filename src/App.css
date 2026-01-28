@@ -326,7 +326,7 @@ body {
 /* Form */
 .contact-form {
   display: grid;
-  gap: 18px;
+  gap: 19px;
   text-align: left;
 }
 

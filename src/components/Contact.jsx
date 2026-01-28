@@ -42,7 +42,7 @@ const Contact = () => {
           </div>
 
           <div className="form-group">
-            <label htmlFor="message">Message me</label>
+            <label htmlFor="message">Message</label>
             <textarea
               id="message"
               placeholder="Tell me about your project, role, or how I can help…"
