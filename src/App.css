@@ -1,14 +1,14 @@
 /* ======= THEME COLORS ======= */
 :root {
-  --primary: #7b4bfd;
-  --accent: #9c6bff;
-  --bg-light: #f8f9ff;
+  --primary: #6C4DF6;        /* richer royal violet */
+  --accent: #9F7BFF;         /* soft luminous lavender */
+  --bg-light: #F4F2FF;       /* cleaner light lavender tint */
   --bg-white: #ffffff;
-  --text-dark: #1e1e2f;
-  --text-muted: #6c7293;
-  --border: #dcdff5;
+  --text-dark: #1A1B2E;      /* deeper navy-tinted dark */
+  --text-muted: #6B6F8A;     /* smoother muted tone */
+  --border: #E4E6FB;         /* softer border shade */
   --radius: 14px;
-  --shadow: 0 6px 16px rgba(123, 75, 253, 0.15);
+  --shadow: 0 8px 20px rgba(108, 77, 246, 0.18); /* modern soft shadow */
 }
 
 /* ======= GLOBAL ======= */
@@ -21,7 +21,7 @@
 }
 
 body {
-  background: linear-gradient(180deg, #d9d6ff 0%, #f7f6ff 100%);
+  background: linear-gradient(180deg, #E9E6FF 0%, #F7F6FF 100%);
   color: var(--text-dark);
   line-height: 1.2;
 }
@@ -33,7 +33,7 @@ body {
   width: 100%;
   background: rgba(255, 255, 255, 0.9);
   backdrop-filter: blur(12px);
-  box-shadow: 0 2px 12px rgba(123, 75, 253, 0.1);
+  box-shadow: 0 2px 12px rgba(108, 77, 246, 0.12);
   z-index: 100;
   padding: 15px 0;
 }
@@ -115,7 +115,7 @@ body {
   justify-content: center;
   padding: 100px 8%;
   gap: 80px;
-  background: linear-gradient(135deg, #ede9fe, #f5f3ff);
+  background: linear-gradient(135deg, #F0ECFF, #F8F7FF);
 }
 
 .hero-left {
@@ -127,7 +127,6 @@ body {
 .hero-right {
   flex: 1.2;
 }
-
 
 .profile-ring {
   padding: 10px;
@@ -180,7 +179,6 @@ body {
   gap: 15px;
 }
 
-
 .profile-wrapper {
   background: white;
   padding: 12px;
@@ -231,7 +229,6 @@ body {
 /* ===== SECTIONS ===== */
 .section {
   padding: 70px 10%;
-
   max-width: 1200px;
 }
 
@@ -345,7 +342,7 @@ body {
   border-radius: 10px;
   border: 1px solid var(--border);
   font-size: 0.95rem;
-  background: #fafaff;
+  background: #FBFAFF;
   transition: border 0.25s, box-shadow 0.25s;
 }
 
@@ -353,7 +350,7 @@ body {
 .contact-form textarea:focus {
   outline: none;
   border-color: var(--primary);
-  box-shadow: 0 0 0 3px rgba(123, 75, 253, 0.15);
+  box-shadow: 0 0 0 3px rgba(108, 77, 246, 0.18);
 }
 
 /* Button */
@@ -372,7 +369,7 @@ body {
 
 .contact-btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 24px rgba(123, 75, 253, 0.35);
+  box-shadow: 0 10px 24px rgba(108, 77, 246, 0.38);
 }
 
 /* Success message */
@@ -383,7 +380,6 @@ body {
   font-weight: 500;
   animation: fadeUp 0.4s ease;
 }
-
 
 /* ===== ABOUT SECTION ===== */
 .about-section {
@@ -425,7 +421,6 @@ body {
     transform: translateY(0);
   }
 }
-
 
 /* ===== FOOTER ===== */
 footer {
