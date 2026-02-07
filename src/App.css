@@ -417,7 +417,7 @@ body {
     transform: translateY(12px);
   }
   to {
-    opacity: 1;
+    opacity: 0.1;
     transform: translateY(0);
   }
 }
