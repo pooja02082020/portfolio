@@ -19,7 +19,7 @@ const About = () => (
 
       <p>
         My background in <strong>test automation and CI/CD</strong> allows me to
-        build software that is not only feature-rich but also stable, secure,
+        build software that is not only feature-rich qualities but also stable, secure,
         and production-ready.
       </p>
 
