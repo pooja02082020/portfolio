@@ -13,8 +13,7 @@ const About = () => (
 
       <p>
         I work across <strong>Java, React, Node.js, and Cloud platforms</strong>,
-        creating fast, reliable, and maintainable systems that deliver real
-        business value.
+        creating fast, reliable, and maintainable systems.
       </p>
 
       <p>
