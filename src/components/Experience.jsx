@@ -11,7 +11,7 @@ const Experience = () => (
         <p>Mar 2025 – Present</p>
         <ul>
           <li>Built and optimized 8+ React components using code-splitting, lazy loading, improving UI performance by 20%.</li>
-         
+          <li>Designed scalable UI architecture with React, TypeScript, and Styled Components, reducing duplicate code by 25%.</li>
           <li>Developed and maintained REST APIs using Node.js and Express, improving data retrieval efficiency by 25%.</li>
           <li>Implemented unit, integration, and UI tests using Jest and React Testing Library to ensure high frontend quality.</li>
           <li>Strengthened CI/CD pipelines with GitHub Actions, ESLint, and Prettier for reliable automated builds.</li>
