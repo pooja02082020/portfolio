@@ -28,7 +28,7 @@ const Experience = () => (
           <li>Reduced regression execution time by 25% by stabilizing tests and improving synchronization.</li>
           <li>Integrated automation into Jenkins CI/CD pipelines, saving 50+ manual QA hours per release.</li>
           <li>Validated REST APIs, backend logic, and healthcare calculations with high accuracy.</li>
-          <li>Mentored junior SDETs on framework design, debugging, and automation best practices.</li>
+          
         </ul>
       </div>
 
