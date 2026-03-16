@@ -26,7 +26,7 @@ const Experience = () => (
           <li>Designed and enhanced UI & API automation frameworks using Java, Selenium, TestNG, and REST Assured, increasing coverage from 45% to 85%.</li>
           <li>Implemented data-driven and hybrid frameworks, boosting defect detection rate by 25%.</li>
           <li>Reduced regression execution time by 25% by stabilizing tests and improving synchronization.</li>
-          <li>Integrated automation into Jenkins CI/CD pipelines, saving 50+ manual QA hours per release.</li>
+          <li>Integrated automation into Jenkins CI/CD pipelines, saving 40+ manual QA hours per release.</li>
           <li>Validated REST APIs, backend logic, and healthcare calculations with high accuracy.</li>
           <li>Mentored junior SDETs on framework design, debugging, and automation best practices.</li>
         </ul>
