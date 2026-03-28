@@ -47,7 +47,7 @@ const Experience = () => (
         <h3>Software Engineering Co-op – Seed NanoTech International Inc.</h3>
         <p>Aug 2024 – Dec 2024</p>
         <ul>
-          <li>Enhanced ICAPMOT research website with interactive JavaScript modules and UI improvements.</li>
+          <li>Enhanced ICAPMOT research website with interactive JavaScript modules and UI designs.</li>
           <li>Optimized MySQL queries and DOM rendering, improving data retrieval and page performance by up to 20%</li>
           <li>Collaborated with researchers to deploy workflow and visualization enhancements.</li>
         </ul>
