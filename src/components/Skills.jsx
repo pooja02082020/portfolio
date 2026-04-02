@@ -29,7 +29,7 @@ const Skills = () => (
         <h3>Automation & Testing</h3>
         <p>
           Selenium WebDriver, TestNG, JUnit, REST Assured, Cypress, Playwright,
-          Postman, Cucumber (BDD), Data-Driven & Hybrid Frameworks, API Testing,
+          Postman, Cucumber, Data-Driven & Hybrid Frameworks, API Testing,
           React Testing Library
         </p>
       </div>
@@ -37,8 +37,7 @@ const Skills = () => (
       <div>
         <h3>DevOps & Cloud</h3>
         <p>
-          Jenkins, Git, GitHub Actions, CI/CD, Docker, AWS (EC2, S3, Lambda,
-          CloudWatch), Maven 
+          Jenkins, Git, GitHub Actions, CI/CD, Docker, AWS (EC2, S3, Lambda, Maven 
         </p>
       </div>
 
