@@ -44,7 +44,7 @@ const Experience = () => (
       </div>
 
       <div className="timeline-item">
-        <h3>Software Engineering Co-op – Seed NanoTech International Inc.</h3>
+        <h3>Software Engineering Co op – Seed NanoTech International Inc.</h3>
         <p>Aug 2024 – Dec 2024</p>
         <ul>
           <li>Enhanced ICAPMOT research website with interactive JavaScript modules and UI designs.</li>
