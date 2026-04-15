@@ -31,7 +31,7 @@ const Hero = () => {
             📄 Resume
           </a>
           <a href="#projects" className="btn outline">
-            🚀 View My Work
+             View My Work
           </a>
         </div>
 
