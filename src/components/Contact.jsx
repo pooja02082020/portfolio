@@ -53,7 +53,7 @@ const Contact = () => {
           </div>
 
           <button type="submit" className="contact-btn" disabled={sent}>
-            {sent ? "Message Sent ✓" : "Send Message"}
+            {sent ? "Message Sent !" : "Send Message"}
           </button>
 
           {sent && (
